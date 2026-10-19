@@ -20,7 +20,7 @@ object Utilidades {
 
     /** Formatea la fecha de la foto, por ejemplo: 19/10/2026 14:35. */
     fun formatearFecha(millis: Long): String {
-        val formato = SimpleDateFormat("dd/MM/yyyy HH:mm", Locale("es", "MX"))
+        val formato = SimpleDateFormat("dd/MM/yyyy HH:mm", Locale.forLanguageTag("es-MX"))
         return formato.format(Date(millis))
     }
 

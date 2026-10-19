@@ -82,15 +82,28 @@ FotoAppAndroid/
 │   ├── res/xml/file_paths.xml        rutas del FileProvider
 │   └── AndroidManifest.xml
 ├── docs/boceto.md                    boceto de las pantallas (Balsamiq)
-├── gradlew / gradlew.bat             Gradle Wrapper 8.7
+├── gradlew / gradlew.bat             Gradle Wrapper 9.8.2
 └── build.gradle / settings.gradle
 ```
 
 ## Requisitos para compilar
 
-- Android Studio (Ladybug o superior) o sólo la línea de comandos con JDK 17.
-- Android SDK 34 (`compileSdk 34`, `minSdk 24`).
+- Android Studio 2026.2 o superior (trae el JDK 25 y el soporte de Kotlin incluido en AGP 9).
+- Android SDK **37** (`compileSdk 37`, `minSdk 24`).
+- Gradle 9.8.2 (incluido en el *wrapper* del proyecto).
 - Conexión a Internet la primera vez para descargar dependencias.
+
+### Versiones usadas
+
+| Componente | Versión |
+|------------|---------|
+| Android Gradle Plugin | 9.4.1 (Kotlin incluido / *built-in Kotlin*) |
+| Gradle | 9.8.2 |
+| KSP | 2.3.12 |
+| Room | 2.8.5 |
+| Material Components | 1.14.0 |
+| Play Services Location | 21.4.0 |
+
 
 ## Cómo compilar y ejecutar
 
