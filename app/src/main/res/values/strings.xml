@@ -1,4 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">FotoApp</string>
+
+    <string name="login_titulo">FotoApp</string>
+
+    <string name="hint_correo">Correo electrónico</string>
+    <string name="hint_contrasena">Contraseña</string>
+    <string name="btn_iniciar_sesion">Iniciar sesión</string>
+    <string name="msg_no_tiene_cuenta">¿No tienes cuenta? Regístrate</string>
+
+    <string name="registro_titulo">Crear cuenta</string>
+    <string name="registro_subtitulo">Registra tus datos</string>
+    <string name="hint_nombre">Nombre(s)</string>
+    <string name="hint_apellidos">Apellidos</string>
+    <string name="hint_confirmar_contrasena">Confirmar contraseña</string>
+    <string name="btn_registrar">Registrar</string>
+
+    <string name="hola_usuario">Hola, %s</string>
+    <string name="principal_instruccion">Toma una evidencia fotográfica.</string>
+    <string name="btn_tomar_foto">Tomar foto</string>
+    <string name="btn_ver_fotos">Galería</string>
+    <string name="desc_vista_previa">Vista previa de la foto</string>
+    <string name="hint_comentario">Comentario de la evidencia</string>
+    <string name="btn_guardar_foto">Guardar</string>
+    <string name="btn_cerrar_sesion">Cerrar sesión</string>
+
+    <string name="titulo_galeria">Galería</string>
+    <string name="msg_vacio_fotos">Todavía no hay evidencias en la galería.</string>
+
+    <string name="titulo_detalle_foto">Detalle de Foto</string>
+    <string name="label_comentario">Comentario</string>
+    <string name="label_ubicacion_gps">Ubicación GPS</string>
+    <string name="btn_ver_mapa">Ver en el mapa</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="titulo_confirmar_eliminar">¿Eliminar foto?</string>
+    <string name="msg_confirmar_eliminar_foto">¿Estás seguro de que deseas eliminar esta foto de la galería?</string>
+    <string name="msg_foto_eliminada">Foto eliminada correctamente</string>
+    <string name="desc_miniatura">Miniatura de la evidencia</string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="msg_confirmar_cerrar_sesion">¿Estás seguro de que quieres cerrar sesión?</string>
+    <string name="dialogo_si">Sí</string>
+    <string name="dialogo_no">No</string>
+
+    <string name="msg_error_credenciales_vacias">Escribe tu correo y contraseña</string>
+    <string name="msg_bienvenida_usuario">Bienvenido %s</string>
+    <string name="msg_error_login_incorrecto">Usuario o contraseña incorrectos</string>
+    <string name="msg_error_nombre_obligatorio">El nombre y los apellidos son obligatorios</string>
+    <string name="msg_error_correo_valido">Escribe un correo válido</string>
+    <string name="msg_error_contrasena_corto">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="msg_error_contraseñas_no_coinciden">Las contraseñas no coinciden</string>
+    <string name="msg_error_correo_registrado">Ese correo ya está registrado</string>
+    <string name="msg_registro_exitoso">Usuario registrado. Ya puedes iniciar sesión</string>
+    <string name="msg_error_registro_fallido">No se pudo registrar el usuario</string>
+    <string name="msg_foto_no_tomada">No se tomó la foto</string>
+    <string name="msg_foto_lista_comentario">Foto lista. Escribe un comentario y guárdala</string>
+    <string name="msg_primero_toma_foto">No se ha tomado ninguna foto</string>
+    <string name="msg_escribe_comentario">Escribe un comentario para la foto</string>
+    <string name="msg_foto_guardada_sin_gps">Foto guardada sin ubicación GPS</string>
+    <string name="msg_foto_guardada_con_gps">Foto guardada con ubicación %s</string>
+    <string name="msg_foto_no_existe">La foto ya no existe</string>
+    <string name="msg_tomada_el">Tomada el %s</string>
+    <string name="msg_no_app_mapas">No hay una app de mapas instalada</string>
+
+    <string name="nav_inicio">Inicio</string>
+    <string name="msg_obteniendo_coordenadas">Ubicación: Obteniendo GPS…</string>
+    <string name="formato_coordenadas">Ubicación: Lat: %.6f, Lon: %.6f</string>
+    <string name="msg_coordenadas_no_disponibles">Ubicación: GPS no disponible</string>
 </resources>

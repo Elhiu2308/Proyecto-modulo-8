@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="Theme.FotoApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Colores institucionales azules -->
         <item name="colorPrimary">@color/azul_primario</item>
         <item name="colorPrimaryDark">@color/azul_oscuro</item>
-        <item name="colorSecondary">@color/verde_acento</item>
+        <item name="colorSecondary">@color/azul_acento</item>
+        <item name="colorSecondaryContainer">@color/azul_claro</item>
+        <item name="android:windowBackground">@color/azul_fondo</item>
     </style>
 </resources>

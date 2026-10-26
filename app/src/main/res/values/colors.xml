@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="azul_primario">#1565C0</color>
-    <color name="azul_oscuro">#0D47A1</color>
-    <color name="verde_acento">#2E7D32</color>
+    <color name="azul_primario">#1E3A8A</color>
+    <color name="azul_oscuro">#0F172A</color>
+    <color name="azul_medio">#2563EB</color>
+    <color name="azul_acento">#38BDF8</color>
+    <color name="azul_claro">#E0F2FE</color>
+    <color name="azul_fondo">#F8FAFC</color>
+    <color name="azul_login_fondo_inicio">#0F172A</color>
+
     <color name="blanco">#FFFFFF</color>
+    <color name="gris_texto">#475569</color>
+    <color name="gris_superficie">#F1F5F9</color>
+    <color name="rojo_error">#EF4444</color>
 </resources>
