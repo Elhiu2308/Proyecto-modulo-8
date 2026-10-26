@@ -30,11 +30,11 @@ Aplicación móvil Android para el registro y consulta de evidencias fotográfic
 
 | Inicio de sesión | Registro de usuario | Pantalla principal |
 |:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/c6f628b8-4fdb-45e6-94cb-3599e9b21e77" width="200" alt="Inicio de sesión de FotoApp"/> | <img src="https://github.com/user-attachments/assets/84542b3a-7905-4570-9ce3-31430d10c729" width="200" alt="Registro de usuario de FotoApp"/> | <img src="https://github.com/user-attachments/assets/ca1e5c12-6f93-4596-85d1-27c13df24dfa" width="200" alt="Pantalla principal de FotoApp"/> |
+| <img src="https://github.com/user-attachments/assets/c6f628b8-4fdb-45e6-94cb-3599e9b21e77" width="200" alt="Inicio de sesión de FotoApp"/> | <img src="https://github.com/user-attachments/assets/557ff492-e069-485a-bd20-c3bc8c2b48d5" width="200" alt="Galería de fotografías"/> | <img src="https://github.com/user-attachments/assets/ca1e5c12-6f93-4596-85d1-27c13df24dfa" width="200" alt="Pantalla principal de FotoApp"/> |
 
-| Captura de evidencia | Detalle de fotografía | Galería de evidencias |
+| Captura de evidencia | Galería de evidencias | Detalle de fotografía |
 |:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/8b32437b-3899-48b6-a66f-149c77ae6fba" width="200" alt="Captura de evidencia fotográfica"/> | <img src="https://github.com/user-attachments/assets/474f4be4-914d-46c1-80a1-79f6116a10d9" width="200" alt="Detalle de evidencia fotográfica"/> | <img src="https://github.com/user-attachments/assets/557ff492-e069-485a-bd20-c3bc8c2b48d5" width="200" alt="Galería de fotografías"/> |
+| <img src="https://github.com/user-attachments/assets/8b32437b-3899-48b6-a66f-149c77ae6fba" width="200" alt="Captura de evidencia fotográfica"/> | <img src="https://github.com/user-attachments/assets/84542b3a-7905-4570-9ce3-31430d10c729" width="200" alt="Registro de usuario de FotoApp"/> | <img src="https://github.com/user-attachments/assets/474f4be4-914d-46c1-80a1-79f6116a10d9" width="200" alt="Detalle de evidencia fotográfica"/>
 
 </div>
 
